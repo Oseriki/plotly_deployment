@@ -1,5 +1,5 @@
 # plotly_deployment
 
-## To view
+## To view: Click url below
 
-URL: https://oseriki.github.io/plotly_deployment/
+https://oseriki.github.io/plotly_deployment/
